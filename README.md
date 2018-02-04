@@ -1,7 +1,7 @@
 # Coding-workshop-resources
 A set of wiki pages and templates for use when learning using platforms such as Storyline, Alexa skills, Java, Greenfoot.
 
-#  futureCodersSE CIC learning resources
+#  [futureCodersSE CIC learning resources](https://github.com/futureCodersSE/Coding-workshop-resources/wiki)
 
 This project contains a set of wiki pages each of which is a tutorial for use in the learning of basic programming.  
   
